@@ -37,7 +37,7 @@
 项目代码克隆：
 
 ```bash
-git clone https://github.com/zhayujie/bot-on-anything
+git clone https://github.com/morty98-cd/bot-on-anything
 cd bot-on-anything/
 ```
 > 或在 Realase 直接手动下载源码。
